@@ -1,0 +1,23 @@
+.img-derecha {
+    background : url('https://notife.com/wp-content/uploads/2019/02/farmacia.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.container-izquierda {
+    background-color: #EBEDEF;
+    text-align: center;
+}
+.izquierda {
+    width: 50%;
+    margin: auto;
+    margin-top: 180px;
+}
+.avatar {
+    margin: auto;
+    margin-top: 6px;
+}
+
+.link-style {
+    text-decoration: none;
+}
